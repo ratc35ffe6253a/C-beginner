@@ -1,4 +1,4 @@
-	.file	"main.c"
+	.file	"test_file.c"
 	.intel_syntax noprefix
 	.text
 	.globl	main
