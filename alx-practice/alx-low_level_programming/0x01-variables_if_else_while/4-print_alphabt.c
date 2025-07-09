@@ -11,7 +11,7 @@ int main(void)
 
 	while (letter <= 'z')
 	{
-		if (letter == 'e' || letter == 'q')
+		if (letter == 'l' || letter == 'q')
 		{
 			letter++;
 			continue;
